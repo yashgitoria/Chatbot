@@ -1,4 +1,4 @@
-START_MSG = """<b>🎐 Hᴇʏ ǫᴛ, {mention}! ~
+START_MSG = """<b>🎐 Hᴇʏ Guys, {mention}! ~
 
 <blockquote>I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ғɪʟᴇsᴛᴏʀᴇ ʙᴏᴛ.
 ᴄʟɪᴄᴋ ᴀʙᴏᴜᴛ ᴍᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʟʟ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs</blockquote></b>"""
@@ -30,7 +30,7 @@ FORCE_MSG = """<b><blockquote>›› ʜᴇʏ, {mention} ×</blockquote>
 ʏᴏᴜʀ ғɪʟᴇ ɪs ʀᴇᴀᴅʏ ‼️ ʟᴏᴏᴋs ʟɪᴋᴇ ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ sᴜʙsᴄʀɪʙᴇᴅ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʏᴇᴛ,
 Pʟᴇᴀsᴇ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟs ɴᴏᴡ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ғɪʟᴇs.
 
-›› ᴍᴀᴅᴇ ʙʏ: [ @TharkiBhabhii ]</b>
+›› ᴍᴀᴅᴇ ʙʏ: [ @Chatbot ]</b>
 """
 
 PREM_MSG = """
